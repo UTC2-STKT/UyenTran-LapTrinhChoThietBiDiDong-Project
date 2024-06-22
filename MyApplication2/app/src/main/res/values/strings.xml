@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="connect_database">Connect Database</string>
+    <string name="show_data">Show Data</string>
+</resources>
